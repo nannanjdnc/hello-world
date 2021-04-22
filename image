@@ -1,1 +1,2 @@
-
+git config user.name YOUR-USER-NAME-OF-GITHUB
+git config user.email YOUR-EMAIL-OF-GITHUB
